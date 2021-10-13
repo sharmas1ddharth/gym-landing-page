@@ -6,3 +6,4 @@ A Gym Landing Page created using HTML5, CSS3 and Javascript. This landing page c
 - Enquiry Form
 
 # License
+Created under the MIT License. See [LICENSE](https://github.com/sharmas1ddharth/gym-landing-page/blob/master/LICENSE) for more information.
